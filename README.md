@@ -1,4 +1,4 @@
-# python 11:30AM-1:30PM Huaxia
+# python 01:30AM-03:30PM Huaxia
 
 This repository is for Python class opened in Huaxia Chinese School.
 
