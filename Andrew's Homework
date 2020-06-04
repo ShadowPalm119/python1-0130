@@ -1,0 +1,13 @@
+print("2020-20=",2020-20)
+print("494+118=",494+118)
+print("The tens digit of 1296 is",10-1)
+print("60/5=",60/5)
+print("14x50=",14*50)
+import math
+print("The remainder of 66/4 is",66%4)
+print("The product of 14 and 3 is",14*3)
+print("8x11+8=",8*11+8)
+print("52+12+18+7=",52+12+18+7)
+print("(estimate)201+402+804+603=",200+400+800+600)
+print("1987 rounded to the nearest 10=",1989+1)
+# it says i need permission to push files to this git...
